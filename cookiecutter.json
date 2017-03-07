@@ -1,0 +1,14 @@
+{
+    "author_name": "Tom Tufts",
+    "author_email": "thomas.j.tufts@gmail.com",
+
+    "package_name": "test",
+    "class_name": "Test",
+    "package_version": "0.0.1",
+    "package_description": "",
+    "package_url": "",
+
+    "readme_pypi_badge": true,
+    "readme_travis_url": "",
+    "python_version": "Python 2.7.11"
+}
